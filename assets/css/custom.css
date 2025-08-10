@@ -1,0 +1,7 @@
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.site-title, .post-title {
+  font-family: "Roboto Mono", monospace !important;
+}
