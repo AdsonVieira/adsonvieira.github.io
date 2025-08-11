@@ -23,9 +23,7 @@ author: Adson Vieira
 location: Joinville - SC
 email: avieira.developer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Criei este blog com o propósito de registrar minhas ideias e acompanhar meu processo de aprendizado nas áreas que mais me interessam. Acredito que escrever é a melhor forma de consolidar novos conhecimentos e desenvolver habilidades.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adsonvieira.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AdsonVieira
