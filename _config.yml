@@ -34,9 +34,11 @@ skin: sunset
 disqus: AdsonVieira
 
 # Build settings
-theme: jekyll-theme-hamilton
+remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
