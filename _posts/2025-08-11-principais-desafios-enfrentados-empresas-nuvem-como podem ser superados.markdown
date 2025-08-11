@@ -4,7 +4,6 @@ title:  "Quais os principais desafios enfrentados pelas empresas ao migrar para 
 date:   2025-08-11 07:00:00 -0300
 categories: cloud computação tecnologia
 ---
-
 Antes de responder a esta pergunta é importante delimitar o cenário que será analisado. Os desafios podem variar conforme tamanho da empresa, país e até mesmo setor. Dessa forma, iremos considerar apenas empresas brasileiras. É claro que os desafios e soluções aqui abordadas podem se a aplicar a outras empresas, mas para embasar esses argumentos será necessário considerar essas demarcações.
 
 ### Alguns números

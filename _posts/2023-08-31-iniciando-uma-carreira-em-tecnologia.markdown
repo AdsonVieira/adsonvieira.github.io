@@ -4,7 +4,6 @@ title:  "Iniciando uma carreira em tecnologia"
 date:   2023-08-31 07:00:00 -0300
 categories: carreira programação
 ---
-
 Nos últimos anos o número de vagas em tecnologia cresceu quase que exponencialmente. Com essa explosão de oportunidades, novas posições foram criadas, ampliando o leque de áreas de atuações possíveis. Como o setor oferece muitas oportunidades e benefícios, pessoas de todas as idades despertam interesse por essas vagas.
 
 Existem diversos caminhos que podem ser percorridos para iniciar uma carreira em tecnologia. Os caminhos mais tradicionais como curso técnicos, universidade são os mais conhecidos e procurados, mas aqui vamos comentar um pouco a respeito das possíveis áreas e como iniciar sem muitos recursos. Nesse artigo teremos um enfoque maior nas carreias possíveis dentro do desenvolvimento de software, escolhi esse caminho por ter mais familiaridade com esse ambiente, mas não se preocupe, iremos abordar outros segmentos.
